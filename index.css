@@ -1,3 +1,7 @@
 h1{
     font-weight: bolder;
 }
+button{
+    background-color: blues;
+    color: red;
+}
